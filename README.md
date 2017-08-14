@@ -34,7 +34,7 @@ In order to setup a dynamic request feature, we will start by writing a test to 
 ```ruby
 # spec/features/post_spec.rb
 
-require 'rails_helper'
+require 'rails_helper' 
 
 describe 'navigate' do
   before do
